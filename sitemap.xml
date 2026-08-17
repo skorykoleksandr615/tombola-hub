@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ <url><loc>https://tombola.monster/</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://tombola.monster/tomb-login.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://tombola.monster/tomb-register.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://tombola.monster/tomb-bonus.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://tombola.monster/tomb-slots.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://tombola.monster/tomb-odds.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://tombola.monster/tomb-crash.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://tombola.monster/tomb-live.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://tombola.monster/tomb-app.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://tombola.monster/tomb-pay.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+ <url><loc>https://tombola.monster/tomb-help.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+</urlset>
